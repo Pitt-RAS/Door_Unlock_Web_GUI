@@ -12,7 +12,7 @@ jinja2==2.11.1
 markupsafe==1.1.1
 marshmallow-sqlalchemy==0.22.3
 marshmallow==3.5.1
-pillow==7.0.0
+pillow==9.3.0
 pyasn1==0.4.8
 pycparser==2.20
 python-jose[cryptography]==3.1.0
